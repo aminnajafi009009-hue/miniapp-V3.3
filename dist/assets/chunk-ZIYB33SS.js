@@ -1,0 +1,1 @@
+var c={copyCard:!0,copyAmount:!0};function p(a){let o=a;return o&&typeof o=="object"&&(typeof o.show_copy_card=="boolean"&&(c.copyCard=o.show_copy_card),typeof o.show_copy_amount=="boolean"&&(c.copyAmount=o.show_copy_amount)),a}export{c as a,p as b};
